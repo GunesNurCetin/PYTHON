@@ -1,0 +1,1 @@
+"Bu Python katmanı, bir Micro-Service mimarisiyle çalışmaktadır. Sadece verileri saklamakla kalmaz, aynı zamanda Pandas kütüphanesi kullanarak anlık veriler üzerinde regresyon analizi ve trend takibi yaparak IoT cihazına (ESP32) geri bildirim sağlar."
